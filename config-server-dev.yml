@@ -1,6 +1,0 @@
-cmsminiservice:
-  configs:
-    url:
-      SimForNorthSerUrl: http://132.35.81.197:8101/SimForNorthSer
-      insertTradeInfosUrl: http://10.124.150.230:8000/api/microservice/trade/insertTradeInfos/v1
-
